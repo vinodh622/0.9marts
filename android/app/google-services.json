@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "28147501709",
+    "project_id": "zeropointninemart-522d3",
+    "storage_bucket": "zeropointninemart-522d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28147501709:android:331067a2c50b9f2e6eb0c4",
+        "android_client_info": {
+          "package_name": "com.zeropointninemart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28147501709-vn9cjdaeu5b7di4kek6fdnr50auigqga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeropointninemart",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "28147501709-vl0h6p7gnsscvkbumf404v04vq0e7tbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrPbnAkc8SOcsCzz4K43fRcMBU1LOk-xM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28147501709-vl0h6p7gnsscvkbumf404v04vq0e7tbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "28147501709-6dit5ppvcmthijvie7g88c2dt8ic7351.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zeropointninemart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
